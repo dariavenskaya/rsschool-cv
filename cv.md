@@ -1,9 +1,11 @@
 # Daria Venskaya
 
 ## Contact Info
+* **Location** Minsk, Belarus
 * **E-mail** venskayadaria@yandex.by
 * **Phone number** +375 25 946 41 
 * **Telegram** @dariavenskaya
+* **GitHub** [dariavenskaya](https://github.com/dariavenskaya)
 ******
 ## About Myself
 

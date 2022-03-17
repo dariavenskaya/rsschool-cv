@@ -21,4 +21,13 @@ Half a year ago I became interested in digital, started to study Quality Assuran
 3. Git Basics
 4. VSCode
 *******
-## Expirience
+## Code example
+
+*******
+## Study
+* JavaScript Manual on learnjavascript.ru (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+* JavaScript Tutotial on the [w3school](https://www.w3schools.com/js/default.asp) (in progress)
+* HTML Tutotial on the [w3school](https://www.w3schools.com/html/default.asp) (in progress)
+* CSS Tutotial on the [w3school](https://www.w3schools.com/css/default.asp) (in progress)
+  

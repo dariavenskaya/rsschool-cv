@@ -1,5 +1,7 @@
 # Daria Venskaya
 
+![Alt-myphoto](photo_2022-03-17%2018.03.58.jpeg)
+*******
 ## Contact Info
 * **Location** Minsk, Belarus
 * **E-mail** venskayadaria@yandex.by

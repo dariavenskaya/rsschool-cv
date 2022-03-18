@@ -31,7 +31,7 @@ function multiply(a, b){
  return a * b
 }
 ```
-This one is my training on [JavaScript Manual](http://learnjavascript.ru)
+This one is my training on [JavaScript Manual](https://learn.javascript.ru)
 ```
 function ask(question, yes, no) {
      if (confirm(question)) yes();
@@ -45,7 +45,7 @@ function ask(question, yes, no) {
  ```
 *******
 ## Study
-* [JavaScript Manual](https://learnjavascript.ru) (in progress)
+* [JavaScript Manual](https://learn.javascript.ru) (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 * JavaScript Tutotial on the [w3school](https://www.w3schools.com/js/default.asp) (in progress)
 * HTML Tutotial on the [w3school](https://www.w3schools.com/html/default.asp) (in progress)
@@ -55,6 +55,6 @@ function ask(question, yes, no) {
 ## Language
 * **Russian** native
 * **English** C2 Proficient according to [EFSET.com](https://www.efset.org/), there is [my certificate](https://www.efset.org/cert/h6oLBs)
-  ![alt-mycertificate](certificate.png)
+![alt-mycertificate](certificate.png)
 * **Polish** basic
   

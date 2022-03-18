@@ -51,8 +51,10 @@ function ask(question, yes, no) {
 * HTML Tutotial on the [w3school](https://www.w3schools.com/html/default.asp) (in progress)
 * CSS Tutotial on the [w3school](https://www.w3schools.com/css/default.asp) (in progress)
 *************
+
 ## Language
 * **Russian** native
-* **English**
+* **English** C2 Proficient according to [EFSET.com](https://www.efset.org/), there is [my certificate](https://www.efset.org/cert/h6oLBs)
+  ![alt-mycertificate](certificate.png)
 * **Polish** basic
   

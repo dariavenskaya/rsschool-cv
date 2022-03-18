@@ -55,6 +55,5 @@ function ask(question, yes, no) {
 ## Language
 * **Russian** native
 * **English** C2 Proficient according to [EFSET.com](https://www.efset.org/), there is [my certificate](https://www.efset.org/cert/h6oLBs)
-![alt-mycertificate](certificate.png)
 * **Polish** basic
   

@@ -1,6 +1,7 @@
 # Daria Venskaya
 
 ![Alt-myphoto](photo_2022-03-17%2018.03.58.jpeg)
+
 *******
 ## Contact Info
 * **Location** Minsk, Belarus
@@ -18,35 +19,34 @@ I was born in Misk, Belarus in 1998. Was studying in Minsk Lyceum #1, after that
 
 ******
 ## Skills
-1. HTML Basics
-2. CSS Basics
-3. Git Basics
-4. VSCode
+1. HTML 
+2. CSS 
+3. JavaScript
+4. Git 
+5. Node.js
 *******
 ## Code example
 
-This code example is my solution for [Codewars](https://www.codewars.com/) sing up task
+This code example is my solution for [Codewars](https://www.codewars.com/) 
+Highest and lowest(7kyu)
 ```
-function multiply(a, b){
- return a * b
+function highAndLow(numbers){
+  const myArr = numbers.split(" ");
+ 
+ return `${Math.max(...myArr)} ${Math.min(...myArr)}`
 }
 ```
-This one is my training on [JavaScript Manual](https://learn.javascript.ru)
+Disemvowel Trolls(7kyu)
 ```
-function ask(question, yes, no) {
-     if (confirm(question)) yes();
-     else no();
-      }
-  function showOk() {
+function disemvowel(str) {
+  return str.replace(/a|e|i|o|u/gi, "");
+}
+```
 
-      alert('Are you here?')
- }
-  ask ('Thanks for being here!', showOk);
- ```
 *******
 ## Study
 * [JavaScript Manual](https://learn.javascript.ru) (in progress)
-* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+* RS Schools Course «JavaScript/Front-end» (in progress)
 * JavaScript Tutotial on the [w3school](https://www.w3schools.com/js/default.asp) (in progress)
 * HTML Tutotial on the [w3school](https://www.w3schools.com/html/default.asp) (in progress)
 * CSS Tutotial on the [w3school](https://www.w3schools.com/css/default.asp) (in progress)
@@ -54,6 +54,7 @@ function ask(question, yes, no) {
 
 ## Language
 * **Russian** native
+* **Belarusian** native
 * **English** C2 Proficient according to [EFSET.com](https://www.efset.org/), there is [my certificate](https://www.efset.org/cert/h6oLBs)
-* **Polish** basic
+* **Polish** A2
   

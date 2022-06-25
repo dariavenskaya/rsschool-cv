@@ -1,5 +1,5 @@
 # Daria Venskaya
-
+<img src="(photo_2022-03-17%2018.03.58.jpeg" alt="My photo" width="200px" height="300">
 ![Alt-myphoto](photo_2022-03-17%2018.03.58.jpeg)
 *******
 ## Contact Info
